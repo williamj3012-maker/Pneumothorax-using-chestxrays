@@ -1,0 +1,11 @@
+kagglehub
+segmentation-models-pytorch
+opencv-python-headless
+torch
+torchvision
+tqdm
+matplotlib
+pandas
+scikit-learn
+albumentations
+numpy
